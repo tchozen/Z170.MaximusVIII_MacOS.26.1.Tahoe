@@ -1,2 +1,2 @@
-# OC EFI for Asus Z170 MaximusVIII
-
+# OC EFI Z170 MaximusVIII - MacOS 26.1
+:boom:Hardware specifications (Setup)
