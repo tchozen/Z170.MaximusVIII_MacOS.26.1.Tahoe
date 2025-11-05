@@ -1,12 +1,14 @@
-# EFI MAXIMUS VIII - MACOS 26.1 
+# z170 Maximus VIII - MacOS 26.1
+<div style="text-align: left;">
+  <img 
+    src="https://github.com/user-attachments/assets/05529562-dae2-4d73-8619-d6dcba560377" 
+    alt="Imagem Espelhada" 
+    style="width: 301px; border-radius: 8px; transform: scaleX(-1); display: inline-block;" 
+  />
+</div>
+⚠️ This EFI was built for Radeon 5000/6000 series GPUs ⚠️
 
-<h2>🔧 Hardware</h2>
-<ul>
-  <li><strong>ASUS Z170 MAXIMUS VIII GENE</strong> </li>
-  <li><strong>Intel Engineering Sample QTJ2</strong> </li>
-  <li><strong>Radeon RX 5700 8GB</strong> </li>
-</ul>
-
+⚠️ USB ports may require post-installation adjustment ⚠️
 <h2>📁 EFI Folder Structure</h2>
 <pre>
 EFI/
