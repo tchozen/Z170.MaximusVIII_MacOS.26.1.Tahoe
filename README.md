@@ -1,11 +1,10 @@
-# OC EFI Z170 MAXIMUS VIII - MACOS 26.1
+# EFI MAXIMUS VIII - MACOS 26.1 
 
 <h2>🔧 Hardware</h2>
 <ul>
-  <li><strong>Motherboard:</strong> ASUS Z170 MAXIMUS VIII GENE</li>
-  <li><strong>Processor:</strong> Intel Engineering Sample (ES) QTJ2</li>
-  <li><strong>Memory:</strong> 32GB DDR4 RAM</li>
-  <li><strong>Graphics Card:</strong> AMD Radeon RX 5700 8GB VRAM</li>
+  <li><strong>ASUS Z170 MAXIMUS VIII GENE</strong> </li>
+  <li><strong>Intel Engineering Sample QTJ2</strong> </li>
+  <li><strong>Radeon RX 5700 8GB</strong> </li>
 </ul>
 
 <h2>📁 EFI Folder Structure</h2>
