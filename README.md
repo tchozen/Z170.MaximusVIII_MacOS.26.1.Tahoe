@@ -6,9 +6,13 @@
     style="width: 301px; border-radius: 8px; transform: scaleX(-1); display: inline-block;" 
   />
 </div>
-⚠️ This EFI was built for Radeon 5000/6000 series GPUs ⚠️
+
+⚠️ Disable FileVault after installation! You’ve been warned! ⚠️
+
+⚠️ This EFI was built for Radeon GPUs 5000/6000 series ⚠️
 
 ⚠️ USB ports may require post-installation adjustment ⚠️
+
 <h2>📁 EFI Folder Structure</h2>
 <pre>
 EFI/
